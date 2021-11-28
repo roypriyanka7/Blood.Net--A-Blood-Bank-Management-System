@@ -9,15 +9,24 @@ It also allows users to find blood donor with whom they can contact.
 
 This application has two login module types: Admin and User-
 
+![Opening Page](https://github.com/priyan-2020/Blood.Net--A-Blood-Bank-Management-System/blob/main/Screenshots/Opening%20Page.PNG)
+
   #### Admin:
   - Add, update and delete donor profile,
   - Print all available donor list for local data storing,
+  
+  ![Admin Add Donor](https://github.com/priyan-2020/Blood.Net--A-Blood-Bank-Management-System/blob/main/Screenshots/Admin_Add%20new%20donor.PNG)
+  
   - Controls user registration, validation and blood requests,
   - Manages blood stock accordingly and
   - Search available donor for blood donation etc.
+
   #### User:
   - User registration, authentication, secured login and Password Recovery option,
   - Updating user profile, direct contact with the donors and admin,
+  
+![User home](https://github.com/priyan-2020/Blood.Net--A-Blood-Bank-Management-System/blob/main/Screenshots/user%20home.PNG)
+
   - Requesting blood directly, search nearby available blood donars etc.
 
 <br>
